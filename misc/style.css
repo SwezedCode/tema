@@ -1,0 +1,20 @@
+@font-face {
+    src: url(Roboto-Bold.ttf);
+    font-family: boldfont;
+}
+
+@font-face {
+    src: url(Roboto-Light.ttf);
+    font-family: lightfont;
+}
+
+body {
+    margin: 0;
+    background-color: #1E1E1E;
+    overflow-x: hidden;
+}
+
+h1 {
+    font-family: boldfont;
+    color: white;
+}
